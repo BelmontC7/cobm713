@@ -29,9 +29,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Website](https://your-personal-website.com)
 
 Feel free to explore my repositories and contribute to any projects that interest you. Let's build something amazing together!
 
